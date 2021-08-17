@@ -36,7 +36,7 @@ const Data = [
         price : "160/=",
         Category : "lunch",
         subdesc : "*Prices may vary on selected date.",
-        img : "Images/bhuna.jpg",
+        img : "Images/Bhuna.jpg",
     },
 
     {
@@ -116,7 +116,7 @@ const Data = [
         price : "160/=",
         Category : "dinner",
         subdesc : "*Prices may vary on selected date.",
-        img : "Images/khihcuri_egg.jpg",
+        img : "Images/Bhuna.jpg",
     },
 
     {
